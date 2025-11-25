@@ -1,0 +1,49 @@
+commit files
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .env.local
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   client/.gitignore
+#	new file:   client/README.md
+#	new file:   client/app/dashboard/page.tsx
+#	new file:   client/app/favicon.ico
+#	new file:   client/app/globals.css
+#	new file:   client/app/layout.tsx
+#	new file:   client/app/login/page.tsx
+#	new file:   client/app/page.tsx
+#	new file:   client/eslint.config.mjs
+#	new file:   client/lib/supabase.ts
+#	new file:   client/next.config.ts
+#	new file:   client/package-lock.json
+#	new file:   client/package.json
+#	new file:   client/postcss.config.mjs
+#	new file:   client/public/file.svg
+#	new file:   client/public/globe.svg
+#	new file:   client/public/next.svg
+#	new file:   client/public/vercel.svg
+#	new file:   client/public/window.svg
+#	new file:   client/tsconfig.json
+#	new file:   data/db.json
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/admin.html
+#	new file:   public/admin.js
+#	new file:   public/home.js
+#	new file:   public/index.html
+#	new file:   public/styles.css
+#	new file:   server.js
+#	new file:   uploads/.gitkeep
+#
+# Changes not staged for commit:
+#	modified:   README.md
+#
+# Untracked files:
+#	README_HTML_VERSION.md
+#
